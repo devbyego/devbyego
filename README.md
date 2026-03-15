@@ -11,8 +11,6 @@ research, artificial intelligence, and developer tooling.
 My goal is simple: write software that matters, ship it in public, and
 continuously raise the standard of what I produce.
 
----
-
 ## What I Do
 
 **Systems and Low-Level Engineering**  
@@ -44,8 +42,6 @@ ship.
 I develop open source tooling for crypto simulation platforms, including
 analytics dashboards, trading automation, and community utilities.
 
----
-
 ## Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -62,8 +58,6 @@ analytics dashboards, trading automation, and community utilities.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 ## Goals
 
 I am actively working toward contributing to large-scale open source projects,
@@ -71,22 +65,16 @@ founding a software startup, and securing a professional engineering role. I
 take my craft seriously and hold every line of code I write to a high
 standard.
 
----
-
 ## Outside of Code
 
 When I am not building, I am gaming, a space I take just as seriously as
 development, and one that has directly shaped how I think about systems,
 competition, and problem solving.
 
----
-
 ## Contact
 
 [![Discord](https://img.shields.io/badge/Discord-BlacklineDev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-devbyego-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbyego)
-
----
 
 *Currently building. Repositories incoming.*
 
