@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ego — Software Developer
+# Ego (Software Developer)
 
 I am a 14-year-old software developer with a comprehensive understanding of
 programming languages spanning systems-level, high-level, scripting, and
