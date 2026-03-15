@@ -73,7 +73,7 @@ competition, and problem solving.
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-BlacklineDev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-devbyego-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-devbyego-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbyego)
 
 *Currently building. Repositories incoming.*
