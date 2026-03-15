@@ -1,3 +1,5 @@
+<div align="center">
+
 # Ego — Software Developer
 
 I am a 14-year-old software developer with a comprehensive understanding of
@@ -87,3 +89,5 @@ competition, and problem solving.
 ---
 
 *Currently building. Repositories incoming.*
+
+</div>
